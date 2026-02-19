@@ -2,7 +2,7 @@
 <xmile version="1.0" xmlns="http://docs.oasis-open.org/xmile/ns/XMILE/v1.0" xmlns:isee="http://iseesystems.com/XMILE">
 	<header>
 		<smile version="1.0" namespace="std, isee"/>
-		<name>hw1_starter</name>
+		<name>hw1_AnisahDowell</name>
 		<uuid>4a6e158f-c160-4293-aba8-8d50fb2af75f</uuid>
 		<vendor>isee systems, inc.</vendor>
 		<product version="4.1.2" isee:build_number="3810" isee:saved_by_v1="true" lang="en">Stella Professional</product>
@@ -105,7 +105,7 @@
 				<units>Pg C squared/yr</units>
 			</flow>
 			<aux name="GPP base">
-				<eqn>120</eqn>
+				<eqn>118</eqn>
 				<units>Pg C/yr</units>
 			</aux>
 			<aux name="Atm ref">
